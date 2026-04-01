@@ -1,0 +1,6 @@
+# In your local repository
+cp "C:\Users\yanke\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-31 222429.png" images/Canto\ IV.png
+cp "C:\Users\yanke\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-31 222542.png" images/Canto\ III.png
+git add images/Canto\ IV.png images/Canto\ III.png
+git commit -m "Add Canto IV and Canto III screenshots"
+git push origin main
